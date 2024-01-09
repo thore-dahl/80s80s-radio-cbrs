@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/thore-dahl/80s80s-radio-cbrs/assets/130995551/7cb69bd9-bea1-4cd0-8dfc-533db8c63ad0" alt="80s80s-radio" style="width:auto;height:250px;">
+  <img src="https://github.com/thore-dahl/80s80s-radio-cbrs/assets/130995551/7cb69bd9-bea1-4cd0-8dfc-533db8c63ad0" alt="80s80s_radio" style="width:auto;height:250px;">
   <h1>Content-Based Recommender System (CBRS)</h1>
 </div>
 <br>
